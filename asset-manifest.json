@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eramod/react-beginner-tutorial/static/css/main.b5d4bc7b.css",
+    "main.js": "/eramod/react-beginner-tutorial/static/js/main.be99ef88.js",
+    "index.html": "/eramod/react-beginner-tutorial/index.html",
+    "main.b5d4bc7b.css.map": "/eramod/react-beginner-tutorial/static/css/main.b5d4bc7b.css.map",
+    "main.be99ef88.js.map": "/eramod/react-beginner-tutorial/static/js/main.be99ef88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5d4bc7b.css",
+    "static/js/main.be99ef88.js"
+  ]
+}
